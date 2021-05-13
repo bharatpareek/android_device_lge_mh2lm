@@ -15,8 +15,8 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/arrow_mh2lm.mk
+    $(LOCAL_DIR)/dot_mh2lm.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_mh2lm-userdebug \
-    arrow_mh2lm-eng
+    dot_mh2lm-userdebug \
+    dot_mh2lm-eng
